@@ -11,7 +11,7 @@ end
 monopoly_with_second_tier
 
 
-This method is also incorrect because it adds a hash key as a string
+#This method is also incorrect because it adds a hash key as a string
 "mortgage_value" is a hash key, so it can't be entered like this.
 The correct way is shown in the next example below:
 
